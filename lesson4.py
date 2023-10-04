@@ -1,4 +1,4 @@
-money = input("enter dollar amount")
+money = input("enter dolla r amount")
 m1 = float(money) // 2.0
 m2 = (money) % 2.0
 
